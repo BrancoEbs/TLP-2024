@@ -51,35 +51,43 @@ footer{
 }
 
 .container{
-    padding-top: 15%;
+    padding-top: 100px;
     font-family: "Montserrat", sans-serif;
-    display: flex;
-    justify-content: center;
-    background-color: #fff;
+    background-color: #000000;
     width: 100%;
     height: 800px;
 }
 
 #coaching{
-    width: 24vw;
-    height: 24vw;
+    float: left;
+    width: 300px;
+    height: 300px;
     background-color: #5E6472;
+
+
 }
 
 #img_rabano{
-    width: 24vw;
-    height: 24vw;
+    float: left;
+    width: 300px;
+    height: 300px;
     background-color: #FFA69E;
+
 }
 
 #img_ajo{
-    width: 24vw;
-    height: 24vw;
-    background-color: #FFA69E;
+    clear: left;
+    float: left;
+    width: 300px;
+    height: 300px;
+    background-color: #5E6472;
+
+
 }
 
 #crowdfunding{
-    width: 24vw;
-    height: 24vw;
-    background-color: #5E6472;
+    float: left;
+    width: 300px;
+    height: 300px;
+    background-color: #FFA69E;
 }
